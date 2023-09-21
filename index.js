@@ -5,10 +5,12 @@ const multiply = num1*num2;
 //console.log(multiply);
 
 const random = Math.floor(Math.random()*10);
-console.log(random);
+//console.log(random); 
 
 const num3 = 16;
 const num4 = 6;
-const mod = 16 % 6;
+const mod = num3 % num4;
+//console.log(mod);
 
 const max = Math.max(12,3,7,15,20);
+//console.log(max);
